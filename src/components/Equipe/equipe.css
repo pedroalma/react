@@ -1,0 +1,36 @@
+.prof{
+    border-radius: 5px;
+    font-size: 25px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.prof p{
+    background-color: black;
+    color: aliceblue;
+    border-radius: 5px;
+    font-size: 25px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.aluno{
+    color: aliceblue;
+    border-radius: 5px;
+    font-size: 25px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.aluno p{
+    background-color: blue ;
+    color: aliceblue;
+    border-radius: 5px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.scat{
+    color: red;
+}
